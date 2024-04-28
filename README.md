@@ -16,7 +16,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/rm1771/Planet-Simulation.git
-2. Install the required packages:
+2. Install the required package:
    ```bash
-   pip install -r requirements.txt
+   pip install pygame
 
