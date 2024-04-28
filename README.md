@@ -9,8 +9,7 @@ This project contains a Python-based simulation that models the orbits of planet
 - Interactive display of distance metrics and orbit paths.
 
 ## Requirements
-To run this simulation, you will need Python and Pygame installed. The specific versions and libraries required are listed in the `requirements.txt` file.
-
+To run this simulation, you will need Python and Pygame installed.
 ## Installation
 Follow these steps to set up the project locally:
 1. Clone the repository:
